@@ -21,7 +21,7 @@ repository               : "abanderam/abanderam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG-3355.png"
+  avatar           : "profile.png"
   name             : "Alejandro Bandera"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
