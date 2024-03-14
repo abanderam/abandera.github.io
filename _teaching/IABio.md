@@ -17,7 +17,7 @@ Parte 1: Introducción a las hojas de cálculo y bases de datos
 
 <em>Contenidos:</em> Introducción a la asignatura. Introducción a la enseñanza virtual. Introducción a Open Office Calc (Estructura, Ayuda, Series de datos, Fórmulas Simples, Referencias Relativas, mixtas y Absolutas).
 
-<em>Problema propuesto:</em> Creación de un documento con las asignaturas del grado en Biología. Debe aparecer los créditos de cada asignatura, la calificación y una columna (Creditos * Nota) en la que se multiplique el número de créditos por la nota obtenida. Debe hacerse la suma del total de créditos y otra suma con los resultados de Créditos * Nota. Finalmente, debe hallarse la nota media dividiendo el último resultado por el total de créditos.
+<em>Problema propuesto:</em> Creación de un documento con las asignaturas del grado en Biología. Debe aparecer los créditos de cada asignatura, la calificación y una columna en la que se multiplique el número de créditos por la nota obtenida. Debe hacerse la suma del total de créditos y otra suma con los resultados de la multiplicación anterior. Finalmente, debe hallarse la nota media dividiendo el último resultado por el total de créditos.
 
 <b>Sesión 2: Clase del 22/9/2023.</b>
 
@@ -46,7 +46,7 @@ Parte 2: Introducción a la programación
 
 <em>Contenidos:</em> Introducción a Matlab en la ventana de comandos: Calculadora, Funciones elementales, Variables y Funciones comunes. Matlab en la venta del editor: m-ficheros (scripts), input y display, la función anónima.
 
-<em>Problema propuesto:</em> En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función $f(x) = \frac{x^{5/3}-x^2}{x^{\log(x^2)/x}+\cos(x)}$﻿, en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
+<em>Problema propuesto:</em> En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función \(f(x) = \frac{x^{5/3}-x^2}{x^{\log(x^2)/x}+\cos(x)}\), en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
 
 <b>Sesión 2: Clase del 9/10/2023.</b>
 
@@ -57,7 +57,7 @@ Parte 2: Introducción a la programación
 * Pide un número por pantalla, n.
 * Si n es par, crea un vector de n componentes entre 0 y 1, y muestra la segunda componente. En caso contrario, crea un vector que empiece en 1 y termine en 100 con paso n, muestra la última componente.
 * Calcula la suma del vector correspondiente y muestra el resultado por pantalla.
-* Evalúa ﻿f paréntesis izquierdo x paréntesis derecho igual s e n paréntesis izquierdo x por t g paréntesis izquierdo x al cuadrado paréntesis derecho paréntesis derechof paréntesis izquierdo x paréntesis derecho igual s e n paréntesis izquierdo x por t g paréntesis izquierdo x al cuadrado paréntesis derecho paréntesis derecho﻿, en el valor anterior.
+* Evalúa ﻿\(f(x) = \sin(x \cdot \tan(x^2))\), en el valor anterior.
 * Muestra el resultado por pantalla.
 
 <b>Sesión 3: Clase del 20/10/2023.</b>
@@ -67,9 +67,13 @@ Parte 2: Introducción a la programación
 <em>Problema propuesto:</em> En un m-fichero: 
 
 * Pedir un número que sea múltiplo de 3 y compruébalo.
-  * Si es par, entonces calcula la siguiente suma: ﻿fracción numerador log paréntesis izquierdo 4 paréntesis derecho entre denominador 2 fin fracción más fracción numerador log paréntesis izquierdo 9 paréntesis derecho entre denominador 4 fin fracción más fracción numerador log paréntesis izquierdo 16 paréntesis derecho entre denominador 6 fin fracción más... más fracción numerador log paréntesis izquierdo 100 paréntesis derecho entre denominador 18 fin fracción.fracción numerador log paréntesis izquierdo 4 paréntesis derecho entre denominador 2 fin fracción más fracción numerador log paréntesis izquierdo 9 paréntesis derecho entre denominador 4 fin fracción más fracción numerador log paréntesis izquierdo 16 paréntesis derecho entre denominador 6 fin fracción más... más fracción numerador log paréntesis izquierdo 100 paréntesis derecho entre denominador 18 fin fracción.﻿
+  * Si es par, entonces calcula la siguiente suma: \[
+    \frac{\log(4)}{2} + \frac{\log(9)}{4} + \frac{\log(16)}{6} + \ldots + \frac{\log(100)}{18}
+    \]
 
-  * Si es impar, entonces calcula el siguiente vector recursivo hasta k=10, donde a(1) = 7: ﻿a subíndice k más 1 fin subíndice igual a subíndice k espacio e elevado a a subíndice k menos 8 fin elevadoa subíndice k más 1 fin subíndice igual a subíndice k espacio e elevado a a subíndice k menos 8 fin elevado﻿
+  * Si es impar, entonces calcula el siguiente vector recursivo hasta k=10, donde a(1) = 7: ﻿\[
+    a_{k+1} = k \cdot e^{a_k - 8}^{a_{k+1} = a_k \cdot e^{a_k - 8}}
+    \]
 
 * Muestra el resultado correspondiente por pantalla.
 
@@ -89,7 +93,7 @@ Parte 3: Modelos poblacionales
 <em>Problema propuesto:</em> Modelo logístico completo:
 
 * Pedir un número R por pantalla. Debe comprobarse que cumple 1<R<4.
-* El modelo discreto sigue la función ﻿x subíndice k más 1 fin subíndice igual R espacio x subíndice k espacio paréntesis izquierdo 1 menos x subíndice k paréntesis derechox subíndice k más 1 fin subíndice igual R espacio x subíndice k espacio paréntesis izquierdo 1 menos x subíndice k paréntesis derecho﻿, donde la k indica el número de días. 
+* El modelo discreto sigue la función \[﻿x_{k+1} = R \cdot x_k \cdot (1 - x_k)\]﻿, donde la k indica el número de días. 
 * Calcular la evolución con condición inicial 0.3 durante 50 días y representarlo.
 * Estudiar la estabilidad de los puntos de equilibrio para R=2 y R=3.5.
 * EXTRA: Calcular los puntos de equilibrio y estudiar su estabilidad en función de R.
