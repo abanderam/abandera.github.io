@@ -23,10 +23,6 @@ Work experience
   * Duties includes: Research in Reduced Order Modelling of Differential Equations
   * Supervisor: Prof. Tomás Chacón, Prof. Soledad Ferández and Prof. Macarena Gómez
 
-* 9/2020-6/2022: Coordinator
-  * Colegio Mayor Hernando Colón
-  * Duties includes: Organization of activities of diverse thematics: culture, sport, solidarity, among others. Support to the directive team with Human Resources and technological development.
-  
 Skills
 ======
 * Numerical Simulations
