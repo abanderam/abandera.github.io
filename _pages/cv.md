@@ -59,4 +59,7 @@ Teaching
 Service and leadership
 ======
 * President of the Culture Comettee of the Colegio Mayor Hernando Colón 2018-2019.
-* Coordinator of the Culture Comettee 
+* Coordinator of the Culture Comettee of the Colegio Mayor Hernando Colón 2020-2021.
+* Coordinator of the Sports Comettee of the Colegio Mayor Hernando Colón 2020-2021.
+* Coordinator of the Solidarity Comettee of the Colegio Mayor Hernando Colón 2021-2022.
+* Coordinator of the Major Festivities Comettee of the Colegio Mayor Hernando Colón 2021-2022.
