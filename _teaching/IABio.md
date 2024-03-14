@@ -57,7 +57,7 @@ Parte 2: Introducción a la programación
 * Pide un número por pantalla, n.
 * Si n es par, crea un vector de n componentes entre 0 y 1, y muestra la segunda componente. En caso contrario, crea un vector que empiece en 1 y termine en 100 con paso n, muestra la última componente.
 * Calcula la suma del vector correspondiente y muestra el resultado por pantalla.
-* Evalúa ﻿f(x) = sin(x · tan(x<sup>2</sup>)), en el valor anterior.
+* Evalúa ﻿f(x) = sin(x tan(x<sup>2</sup>)), en el valor anterior.
 * Muestra el resultado por pantalla.
 
 <b>Sesión 3: Clase del 20/10/2023.</b>
@@ -69,7 +69,7 @@ Parte 2: Introducción a la programación
 * Pedir un número que sea múltiplo de 3 y compruébalo.
   * Si es par, entonces calcula la siguiente suma: log(4)/2 +  log(9)/4 + log(16)/6 + ··· +  log(100)/18
 
-  * Si es impar, entonces calcula el siguiente vector recursivo hasta k=10, donde a(1) = 7: a<sub>k+1</sub> = a<sub>k</sub> · e<sup>a<sub>k</sub> - 8</sup>
+  * Si es impar, entonces calcula el siguiente vector recursivo hasta k=10, donde a(1) = 7: a<sub>k+1</sub> = a<sub>k</sub> e<sup>a<sub>k</sub> - 8</sup>
 
 * Muestra el resultado correspondiente por pantalla.
 
@@ -89,7 +89,7 @@ Parte 3: Modelos poblacionales
 <em>Problema propuesto:</em> Modelo logístico completo:
 
 * Pedir un número R por pantalla. Debe comprobarse que cumple 1<R<4.
-* El modelo discreto sigue la función x<sub>k+1</sub> = R · x<sub>k</sub> · (1 - x<sub>k</sub>)﻿, donde la k indica el número de días. 
+* El modelo discreto sigue la función x<sub>k+1</sub> = R x<sub>k</sub> (1 - x<sub>k</sub>)﻿, donde la k indica el número de días. 
 * Calcular la evolución con condición inicial 0.3 durante 50 días y representarlo.
 * Estudiar la estabilidad de los puntos de equilibrio para R=2 y R=3.5.
 * EXTRA: Calcular los puntos de equilibrio y estudiar su estabilidad en función de R.
