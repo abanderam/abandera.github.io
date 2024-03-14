@@ -46,7 +46,7 @@ Parte 2: Introducción a la programación
 
 <em>Contenidos:</em> Introducción a Matlab en la ventana de comandos: Calculadora, Funciones elementales, Variables y Funciones comunes. Matlab en la venta del editor: m-ficheros (scripts), input y display, la función anónima.
 
-<em>Problema propuesto:</em> En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función f(x) = \frac{x<sup>5/3<sup>}-x<sup>2<sup>}{x<sup>\log(x<sup>2<sup>)/x<sup>+cos(x)}, en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
+<em>Problema propuesto:</em> En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función f(x) = \frac{x<sup>5/3</sup>}-x<sup>2</sup>}{x<sup>log(x<sup>2</sup>)/x</sup>+cos(x)}, en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
 
 <b>Sesión 2: Clase del 9/10/2023.</b>
 
@@ -57,7 +57,7 @@ Parte 2: Introducción a la programación
 * Pide un número por pantalla, n.
 * Si n es par, crea un vector de n componentes entre 0 y 1, y muestra la segunda componente. En caso contrario, crea un vector que empiece en 1 y termine en 100 con paso n, muestra la última componente.
 * Calcula la suma del vector correspondiente y muestra el resultado por pantalla.
-* Evalúa ﻿f(x) = sin(x · tan(x<sup>2<sup>)), en el valor anterior.
+* Evalúa ﻿f(x) = sin(x · tan(x<sup>2</sup>)), en el valor anterior.
 * Muestra el resultado por pantalla.
 
 <b>Sesión 3: Clase del 20/10/2023.</b>
@@ -67,7 +67,7 @@ Parte 2: Introducción a la programación
 <em>Problema propuesto:</em> En un m-fichero: 
 
 * Pedir un número que sea múltiplo de 3 y compruébalo.
-  * Si es par, entonces calcula la siguiente suma: \frac{log(4)}{2} + \frac{log(9)}{4} + \frac{log(16)}{6} + \ldots + \frac{log(100)}{18}
+  * Si es par, entonces calcula la siguiente suma: log(4)/2 +  log(9)/4 + log(16)/6 + ··· +  log(100)/18
 
   * Si es impar, entonces calcula el siguiente vector recursivo hasta k=10, donde a(1) = 7: a<sub>k+1</sub> = a<sub>k</sub> · e<sup>a<sub>k</sub> - 8</sup>
 
