@@ -4,7 +4,7 @@ collection: teaching
 type: "Grado en Farmacia"
 permalink: /teaching/MAE
 venue: "Universidad de Sevilla"
-date: 2022-2023
+date: 2022-01-01
 location: "Sevilla, España"
 ---
 
