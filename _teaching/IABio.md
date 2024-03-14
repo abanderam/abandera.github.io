@@ -17,7 +17,7 @@ Parte 1: Introducción a las hojas de cálculo y bases de datos
 
 <em>Contenidos:</em> Introducción a la asignatura. Introducción a la enseñanza virtual. Introducción a Open Office Calc (Estructura, Ayuda, Series de datos, Fórmulas Simples, Referencias Relativas, mixtas y Absolutas).
 
-<em>Problema propuesto:</em> Creación de un documento con las asignaturas del grado en Biología. Debe aparecer los créditos de cada asignatura, la calificación y una columna (Creditos*Nota) en la que se multiplique el número de créditos por la nota obtenida. Debe hacerse la suma del total de créditos y otra suma con los resultados de Créditos*Nota. Finalmente, debe hallarse la nota media dividiendo el último resultado por el total de créditos.
+<em>Problema propuesto:</em> Creación de un documento con las asignaturas del grado en Biología. Debe aparecer los créditos de cada asignatura, la calificación y una columna (Creditos * Nota) en la que se multiplique el número de créditos por la nota obtenida. Debe hacerse la suma del total de créditos y otra suma con los resultados de Créditos * Nota. Finalmente, debe hallarse la nota media dividiendo el último resultado por el total de créditos.
 
 <b>Sesión 2: Clase del 22/9/2023.</b>
 
