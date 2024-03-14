@@ -3,7 +3,7 @@ title: "Informática Aplicada a la Biología"
 collection: teaching
 type: "Grado en Biología"
 permalink: /teaching/IABio
-date: 2024-01-01
+date: 2023-01-01
 venue: "Universidad de Sevilla"
 location: "Sevilla, España"
 ---
