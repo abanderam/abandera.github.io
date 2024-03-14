@@ -4,7 +4,7 @@ collection: teaching
 type: "Grado en Biologia"
 permalink: /teaching/IABio
 venue: "Universidad de Sevilla"
-date: 2020-2024
+date: 2020-01-01
 location: "Sevilla, España"
 ---
 
