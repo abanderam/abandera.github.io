@@ -8,6 +8,8 @@ venue: "Universidad de Sevilla"
 location: "Sevilla, España"
 ---
 
+Asignatura del primer cuatrimestre del primer curso del Grado en Biología.
+
 Parte 1: Introducción a las hojas de cálculo y bases de datos
 ======
 
