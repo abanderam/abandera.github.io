@@ -46,7 +46,7 @@ Parte 2: Introducción a la programación
 
 <em>Contenidos:</em> Introducción a Matlab en la ventana de comandos: Calculadora, Funciones elementales, Variables y Funciones comunes. Matlab en la venta del editor: m-ficheros (scripts), input y display, la función anónima.
 
-<em>Problema propuesto:</em> En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función f(x) = \frac{x<sup>5/3</sup>}-x<sup>2</sup>}{x<sup>log(x<sup>2</sup>)/x</sup>+cos(x)}, en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
+<em>Problema propuesto:</em> En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función f(x) = <frac>x<sup>5/3</sup>-x<sup>2</sup></frac><frac>x<sup>log(x<sup>2</sup>)/x</sup>+cos(x)</frac>, en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
 
 <b>Sesión 2: Clase del 9/10/2023.</b>
 
