@@ -1,5 +1,5 @@
 ---
-title: "Matemática Aplicada y Estadística"
+title: "Matematica Aplicada y Estadistica"
 collection: teaching
 type: "Grado en Farmacia"
 permalink: /teaching/MAE
@@ -10,8 +10,8 @@ location: "Sevilla, España"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Parte 1: Análisis Matemático
+Parte 1: Analisis Matematico
 ======
 
-Parte 2: Programación Lineal
+Parte 2: Programacion Lineal
 ======
