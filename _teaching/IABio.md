@@ -40,5 +40,68 @@ Consejos para el examen:
 Parte 2: Introducción a la programación
 ======
 
+Sesión 1: Clase del 6/10/2023.
+
+Contenidos: Introducción a Matlab en la ventana de comandos: Calculadora, Funciones elementales, Variables y Funciones comunes. Matlab en la venta del editor: m-ficheros (scripts), input y display, la función anónima.
+
+Problema propuesto: En un script de Matlab, crear un archivo que pida dos números por pantalla. Después evalúe la función $f(x) = \frac{x^{5/3}-x^2}{x^{\log(x^2)/x}+\cos(x)}$﻿, en los puntos anteriores. Por útlimo, debes sumar los resultados anteriores y mostrar el valor de la suma por pantalla.
+
+Sesión 2: Clase del 9/10/2023.
+
+Contenido: Vectores, vectores equiespaciados (comando a:h:b y linspace(a,b,h)), componentes de vectores, operaciones con vectores. Introducción a la programación, condicionales (if, if-else, if-elseif-else).
+
+Problema propuesto: En un m-fichero:
+
+Pide un número por pantalla, n.
+* Si n es par, crea un vector de n componentes entre 0 y 1, y muestra la segunda componente. En caso contrario, crea un vector que empiece en 1 y termine en 100 con paso n, muestra la última componente.
+* Calcula la suma del vector correspondiente y muestra el resultado por pantalla.
+* Evalúa ﻿f paréntesis izquierdo x paréntesis derecho igual s e n paréntesis izquierdo x por t g paréntesis izquierdo x al cuadrado paréntesis derecho paréntesis derechof paréntesis izquierdo x paréntesis derecho igual s e n paréntesis izquierdo x por t g paréntesis izquierdo x al cuadrado paréntesis derecho paréntesis derecho﻿, en el valor anterior.
+* Muestra el resultado por pantalla.
+
+Sesión 3: Clase del 20/10/2023.
+
+Contenido: Condicionales y bucles (FOR y WHILE).
+
+Problema propuesto: En un m-fichero: 
+
+Pedir un número que sea múltiplo de 3 y compruébalo.
+* Si es par, entonces calcula la siguiente suma: 
+﻿fracción numerador log paréntesis izquierdo 4 paréntesis derecho entre denominador 2 fin fracción más fracción numerador log paréntesis izquierdo 9 paréntesis derecho entre denominador 4 fin fracción más fracción numerador log paréntesis izquierdo 16 paréntesis derecho entre denominador 6 fin fracción más... más fracción numerador log paréntesis izquierdo 100 paréntesis derecho entre denominador 18 fin fracción.fracción numerador log paréntesis izquierdo 4 paréntesis derecho entre denominador 2 fin fracción más fracción numerador log paréntesis izquierdo 9 paréntesis derecho entre denominador 4 fin fracción más fracción numerador log paréntesis izquierdo 16 paréntesis derecho entre denominador 6 fin fracción más... más fracción numerador log paréntesis izquierdo 100 paréntesis derecho entre denominador 18 fin fracción.﻿
+
+* Si es impar, entonces calcula el siguiente vector recursivo hasta k=10, donde a(1) = 7:
+﻿a subíndice k más 1 fin subíndice igual a subíndice k espacio e elevado a a subíndice k menos 8 fin elevadoa subíndice k más 1 fin subíndice igual a subíndice k espacio e elevado a a subíndice k menos 8 fin elevado﻿
+
+* Muestra el resultado correspondiente por pantalla.
+
+Sesión 4: Clase del 27/10/2023. 
+
+Contenido: Bucle FOR para definir vectores recursivos. Cadena de caracteres, gráficas de funciones, gráficas de vectores.
+
+Problema Propuesto: Ver ejercicio final primera parte de matlab.
+
 Parte 3: Modelos poblacionales
 ======
+
+Sesión 2. Clase del 3/11/2023.
+
+Contenido: Modelos discretos y paquete de cálculo simbólico.
+
+Problema propuesto: Modelo logístico completo:
+
+* Pedir un número R por pantalla. Debe comprobarse que cumple 1<R<4.
+* El modelo discreto sigue la función ﻿x subíndice k más 1 fin subíndice igual R espacio x subíndice k espacio paréntesis izquierdo 1 menos x subíndice k paréntesis derechox subíndice k más 1 fin subíndice igual R espacio x subíndice k espacio paréntesis izquierdo 1 menos x subíndice k paréntesis derecho﻿, donde la k indica el número de días. 
+* Calcular la evolución con condición inicial 0.3 durante 50 días y representarlo.
+* Estudiar la estabilidad de los puntos de equilibrio para R=2 y R=3.5.
+* EXTRA: Calcular los puntos de equilibrio y estudiar su estabilidad en función de R.
+
+Sesión 3. Clase del 24/11/2023.
+
+Contenidos: Modelos continuos unidimensionales. Cálculo de puntos de equilibrio y estudio de la estabilidad.
+
+Problema propuesto: Ver secuencia de actividades: SecuenciaActividades1D.pptx.
+
+Sesión 4. Clase del 1/12/2023.
+
+Contenidos: Modelos Lotka-Volterra: Competición, simbiosis y presa-depredador. Cálculo de puntos de equilibrio y estudio de la estabilidad.
+
+Problema propuesto: Ver secuencia de actividades: SecuenciaActividades2D.pptx.
