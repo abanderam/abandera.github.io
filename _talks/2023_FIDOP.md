@@ -7,3 +7,5 @@ venue: "Universidad de Sevilla"
 date: 2023-06-29
 location: "Sevilla, Spain"
 ---
+
+CICLO DE MEJORA EN LA ASIGNATURA DE INFORMÁTICA APLICADA A LA BIOLOGÍA
