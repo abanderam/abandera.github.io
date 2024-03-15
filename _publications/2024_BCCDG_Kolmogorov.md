@@ -1,7 +1,7 @@
 ---
 title: "Reduced Basis modelling of turbulence with well-developed inertial range"
 collection: publications
-permalink: /publication/2024_BCCDG
+permalink: /publication/2024_BCCDG_Kolmogorov
 excerpt: ''
 date: 2024-02-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
