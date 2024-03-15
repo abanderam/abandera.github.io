@@ -1,5 +1,5 @@
 ---
-title: "Multiple timescale coupled systems with MMOs. New behaviours and ROM simulations"
+title: "4th BYMAT Conference"
 collection: talks
 type: "Talk"
 permalink: /talks/2022_BYMAT
