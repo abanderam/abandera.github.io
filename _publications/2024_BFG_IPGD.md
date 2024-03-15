@@ -1,7 +1,7 @@
 ---
 title: "On the computation of intrinsic Proper Generalized Decomposition modes of parametric symmetric elliptic problems on Grassmann manifolds"
 collection: publications
-permalink: /publication/2024-BFG
+permalink: /publication/2024_BFG_IPGD
 excerpt: ''
 date: 2024-06-01
 venue: 'Applied Mathematics and Computation'
