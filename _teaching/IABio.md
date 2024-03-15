@@ -99,6 +99,7 @@ Parte 3: Modelos poblacionales
 <em>Contenidos:</em> Modelos continuos unidimensionales. Cálculo de puntos de equilibrio y estudio de la estabilidad.
 
 <em>Problema propuesto:</em> Ver secuencia de actividades: 
+<a href="https:///abanderam.github.io/files/_teaching/prueba.txt">SecuenciaActividades1D.pptx</a>.
 
 
 <b>Sesión 4. Clase del 1/12/2023.</b>
