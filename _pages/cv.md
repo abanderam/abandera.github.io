@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Seville, 2024
-* M.S. in Mathematics, University of Seville, 2021
-* B.S. in Mathematics, University of Seville, 2019
-* B.S. in Physics, University of Seville, 2019
+* Ph.D in Mathematics, University of Seville, 2024. <a href="https:///abanderam.github.io/filesTesis_ABM.pdf">PhD Thesis</a>.
+* M.S. in Mathematics, University of Seville, 2021. <a href="https:///abanderam.github.io/files/TFM_ABM.pdf">Master Thesis</a>.
+* B.S. in Mathematics, University of Seville, 2019. <a href="https:///abanderam.github.io/files/TFG_ABM.pdf">Final Project</a>.
+* B.S. in Physics, University of Seville, 2019. <a href="https:///abanderam.github.io/files/TFG_ABM.pdf">Final Project</a>.
 
 Work experience
 ======
@@ -54,8 +54,7 @@ Teaching
   
 Service and leadership
 ======
-* President of the Culture Comettee of the Colegio Mayor Hernando Colón 2018-2019.
-* Coordinator of the Culture Comettee of the Colegio Mayor Hernando Colón 2020-2021.
-* Coordinator of the Sports Comettee of the Colegio Mayor Hernando Colón 2020-2021.
-* Coordinator of the Solidarity Comettee of the Colegio Mayor Hernando Colón 2021-2022.
-* Coordinator of the Major Festivities Comettee of the Colegio Mayor Hernando Colón 2021-2022.
+* Colegio Mayor Hernando Colón
+  * President of the Culture Comettee 2018-2019.
+  * Coordinator of the Culture & Sports Comettees 2020-2021.
+  * Coordinator of the Solidarity & Major Festivities Comettees 2021-2022.

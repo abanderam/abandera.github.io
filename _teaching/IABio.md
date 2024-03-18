@@ -99,11 +99,12 @@ Parte 3: Modelos poblacionales
 <em>Contenidos:</em> Modelos continuos unidimensionales. Cálculo de puntos de equilibrio y estudio de la estabilidad.
 
 <em>Problema propuesto:</em> Ver secuencia de actividades: 
-<a href="https:///abanderam.github.io/files/paper1.pdf">SecuenciaActividades1D.pptx</a>.
+<a href="https:///abanderam.github.io/files/SecuenciaActividades1D.pptx">SecuenciaActividades1D.pptx</a>.
 
 
 <b>Sesión 4. Clase del 1/12/2023.</b>
 
 <em>Contenidos:</em> Modelos Lotka-Volterra: Competición, simbiosis y presa-depredador. Cálculo de puntos de equilibrio y estudio de la estabilidad.
 
-<em>Problema propuesto:</em> Ver secuencia de actividades: SecuenciaActividades2D.pptx.
+<em>Problema propuesto:</em> Ver secuencia de actividades: 
+<a href="https:///abanderam.github.io/files/SecuenciaActividades2D.pptx">SecuenciaActividades2D.pptx</a>.
