@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Seville, 2024. <! -- <a href="https:///abanderam.github.io/files/Tesis_ABM.pdf">PhD Thesis</a>. -->
+* Ph.D in Mathematics, University of Seville, 2024. <!--- <a href="https:///abanderam.github.io/files/Tesis_ABM.pdf">PhD Thesis</a>. -->
 * M.S. in Mathematics, University of Seville, 2021. <a href="https:///abanderam.github.io/files/TFM_ABM.pdf">Master Thesis</a>.
 * B.S. in Mathematics, University of Seville, 2019. <a href="https:///abanderam.github.io/files/TFG_ABM.pdf">Final Project</a>.
 * B.S. in Physics, University of Seville, 2019. <a href="https:///abanderam.github.io/files/TFG_ABM.pdf">Final Project</a>.
