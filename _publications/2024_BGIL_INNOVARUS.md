@@ -1,11 +1,11 @@
 ---
 title: "Desarrollo de competencias transversales en el ámbito universitario: Seguimiento y certificación en el Colegio Mayor Hernando Colón"
 collection: publications
-permalink: /publication/2023_BGIL_INNOVARUS
+permalink: /publication/2024_BGIL_INNOVARUS
 excerpt: ''
-date: 2023-11-01
+date: 2024-01-01
 venue: 'Dykinson'
-paperurl: 'http://abanderam.github.io/files/BGIL2023_INNOVARUS_Published.pdf'
+paperurl: 'http://abanderam.github.io/files/BGIL2024_INNOVARUS_Published.pdf'
 citation: 'Bandera, A., Gulabrai, S. M., Infante, M., & León, M. (2024). Desarrollo de competencias transversales en el ámbito universitario: seguimiento y certificación en el Colegio mayor Hernando Colón. In Enseñanza e innovación educativa en el ámbito universitario (pp. 187-197). Dykinson.'
 ---
 
