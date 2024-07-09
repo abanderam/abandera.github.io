@@ -14,7 +14,7 @@ redirect_from:
 
 <p>I have a PhD in Mathematics. I have been a researcher at the University of Seville in the research group of Profs. Tomás Chacón Rebollo and Macarena Gómez-Mármol.</p>
 
-<p>I have been a visiting researcher at the University of Bordeaux, France (with S. Brillet and M. Azaïez, 2 months), and at the Univesity of Evry, France (with S. Menozzi and A. Vidal, 2 months).</p>
+<p>I have been a visiting researcher at the University of Bordeaux, France (with S. Brillet and M. Azaïez, 3 months), and at the Univesity of Evry, France (with S. Menozzi and A. Vidal, 2 months).</p>
 
 <p>I speak Spanish, English, German and French.</p>
 </div>
