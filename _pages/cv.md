@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-* 10/2020-: FPI 
+* 8/2024-: PAD
+  * Universidad Loyola Andalucia
+  * Duties includes: Research and Teaching
+* 10/2020-8/2024: FPI 
   * University of Seville
   * Duties includes: Research in Reduced Order Modelling of Differential Equations
   * Supervisor: Prof. Tomás Chacón, Prof. Soledad Ferández and Prof. Macarena Gómez
