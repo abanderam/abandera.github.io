@@ -1,5 +1,5 @@
 ---
-title: "Innovación en la enseñanza de los modelos poblacionales"
+title: "Innovación en la ensenanza de los modelos poblacionales"
 collection: publications
 permalink: /publication/2024_B_REFID
 excerpt: ''
