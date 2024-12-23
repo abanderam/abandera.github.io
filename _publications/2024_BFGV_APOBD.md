@@ -5,7 +5,7 @@ permalink: /publication/2024_BFGV_APOBD
 excerpt: ''
 date: 2024-04-01
 venue: 'Communications in Nonlinear Science and Numerical Simulation'
-paperurl: 'http://abanderam.github.io/files/BFGV2024_APOBD_Published.pdf'
+paperurl: 'http://abanderam.github.io/files/BFGV_APOBD_Published.pdf'
 citation: 'Bandera, A., Fernández-García, S., Gómez-Mármol, M., & Vidal, A. (2024). &quot;Automatic Proper Orthogonal Block Decomposition method for network dynamical systems with multiple timescales.&quot; <i>Communications in Nonlinear Science and Numerical Simulation</i>, 131, 107844.'
 ---
 
