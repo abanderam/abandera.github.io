@@ -3,7 +3,7 @@ title: "Innovación en la enseñanza de los modelos poblacionales"
 collection: publications
 permalink: /publication/2024_B_REFID
 excerpt: ''
-date: 2024-01-01
+date: 2024-12-01
 venue: 'Editorial universidad de Sevilla'
 paperurl: 'http://abanderam.github.io/files/B2024_REFID_Published.pdf'
 citation: 'Bandera, A (2024). Innovación en la enseñanza de los modelos poblacionales. In Ciclos de mejora en el aula. Curso 2023-24 (pp. 873-886). Editorial universidad de Sevilla.'
