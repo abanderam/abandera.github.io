@@ -1,6 +1,5 @@
 ---
-title: "Innovación en la enseñanza
-de los modelos poblacionales"
+title: "Innovación en la enseñanza de los modelos poblacionales"
 collection: publications
 permalink: /publication/2024_B_REFID
 excerpt: ''
@@ -13,8 +12,7 @@ citation: 'Villarejo-Ramos, A.F.; Porlán, R.; Delord, G. y Blandón-González, 
 <div style="text-align: justify">
 <p>This paper summarizes the results obtained after the implementation of an Improvement Cycle in Classroom (ICIC) in the subject of Computer Science Applied to Biology taught in the first quarter of the first year of the Degree in Biology during the academic year 2023/24. In particular, the ICIC is focused on the third module of the practical part of the subject, which deals with population models, both discrete and continuous. The main objective of this ICIC is to improve the analysis capacity of students to be able to make more accurate decisions.</p>
 
-<p>Keywords: Informatics Applied to Biology / Degree in Biology / University Teaching /
-Teacher Professional Development / Poblational Models.</p>
+<p>Keywords: Informatics Applied to Biology / Degree in Biology / University Teaching / Teacher Professional Development / Poblational Models.</p>
 
-<p>© 2024 The Author(s). Published by Editorial Universidad de Sevilla.</p>
+<p>© 2024 The Author(s).</p>
 </div>
