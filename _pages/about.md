@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-
-<p>I am a Lecturer (Profesor Ayudante Doctor) in Universidad Loyola Andalucia. Previously, I was a postdoctoral researcher in the University of Seville (Spain). </p>
+<p>I am a postdoctoral researcher in the University of Seville (Spain). </p>
 
 <p>My research focuses on the development of Reduced Order Modelling (ROM) techniques for systems of differential equations. My research topics also include: Proper Orthogonal Decomposition (POD), Reduced Basis (RB) and Proper Generalized Decomposition (PGD). Applications concern: Slow-fast dynamical systems, turbulence models and elliptic PDEs.</p>
 
