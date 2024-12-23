@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 8/2024-: PAD (Lecturer)
+* 8/2024-: PAD
   * Universidad Loyola Andalucia
   * Duties includes: Research and Teaching
 * 10/2020-8/2024: FPI 
